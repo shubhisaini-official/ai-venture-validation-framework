@@ -2,6 +2,7 @@
 AI-Driven D2C Product Discovery &amp; Venture Stress-Testing Framework
 # 🐕 AI-Driven Venture Validation Framework: AT Food Co.
 > **Translating D2C Fresh Nutrition & Lifecycle Data into a Defensible Commerce Model using Generative AI**
+> **[Download / View the Executive Pitch Deck (PDF)](./AT-Food-Co.pdf)**
 
 [![AI Stack](https://img.shields.io/badge/AI%20Tools-Gamma%20%7C%20ChatGPT%20%7C%20CO--STAR-blueviolet)](#)
 [![Domain](https://img.shields.io/badge/Domain-Digital%20Commerce%20%7C%20PetTech-orange)](#)
